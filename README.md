@@ -1,1 +1,1 @@
-#Simple Notes CRUD APP Using Django Rest API
+Simple Notes CRUD APP Using Django Rest API
